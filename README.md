@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAJESHREDDY0508
+- 👋 Hi, I’m @RAJESH_GUTHIKONDA
 - 👀 I’m interested in Creating new technologies and developing my skills
 - 🌱 I’m currently learning Phython, Azure Data Engineer, Full Stack in Machine Learning and AI
 - 💞️ I’m looking to collaborate on Software Technologies
