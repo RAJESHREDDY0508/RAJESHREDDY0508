@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAJESHREDDY0508
 - 👀 I’m interested in Creating new technologies and developing my skills
-- 🌱 I’m currently learning Phython
+- 🌱 I’m currently learning Phython, Azure Data Engineer, Full Stack in Machine Learning and AI
 - 💞️ I’m looking to collaborate on Software Technologies
 - 📫 How to reach me rajeshreddyguthikonda@gmail.com
 
